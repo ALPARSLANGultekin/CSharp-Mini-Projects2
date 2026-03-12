@@ -1,0 +1,9 @@
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\bin\Debug\yilan_Oyunu.exe.config
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\bin\Debug\yilan_Oyunu.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\bin\Debug\yilan_Oyunu.pdb
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.csproj.AssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.Properties.Resources.resources
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.csproj.GenerateResource.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\yilan_Oyunu\yilan_Oyunu\obj\Debug\yilan_Oyunu.pdb

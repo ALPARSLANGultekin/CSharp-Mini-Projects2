@@ -1,0 +1,10 @@
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.exe.config
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\bin\Debug\basithesapmakinesi.pdb
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.Form1.resources
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.Properties.Resources.resources
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.GenerateResource.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.exe
+C:\Users\90538\OneDrive\Masaüstü\DERS\C#\basithesapmakinesi\basithesapmakinesi\obj\Debug\basithesapmakinesi.pdb
